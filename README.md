@@ -1,3 +1,3 @@
 # kwin5-scripts-shake
 
-This script lets you minimize all windows by just shaking one of them. [Demo](https://youtu.be/MuifQzDxdZI)
+This script lets you shake a window to minimize all other windows. [Demo](https://youtu.be/MuifQzDxdZI)
