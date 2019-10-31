@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 Name=Shake
-Comment=Minimizes all clients when a window is shaken
+Comment=Lets you shake a window to minimize all other windows
 Icon=preferences-system-windows-script-shake
 
 X-Plasma-API=javascript
